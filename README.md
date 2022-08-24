@@ -1,5 +1,7 @@
 # Battleships JavaScript Starter Player
 
+![Lifecycle Archived](https://badgen.net/badge/Lifecycle/Archived/grey)
+
 This is a starter player for the [Battleships Game](https://github.com/Morgan-Stanley/battleships), which is used for our yearly Intern Competition.
 
 ## Running
